@@ -1,2 +1,5 @@
 # Ignorar la carpeta Plecs
 Plecs/
+
+# Ignorar todos los archivos con extensión .plecs
+*.plecs
